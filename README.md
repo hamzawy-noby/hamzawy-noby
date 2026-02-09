@@ -1,6 +1,6 @@
 <!-- Animated Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1220&color=230E33&center=true&vCenter=true&width=600&lines=WELCOME_HERE;I,M_HAMZAWY;Front_End_Developer;HTML+%26+CSS+%26+JS" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1220&color=41FA58&center=true&vCenter=true&width=600&lines=WELCOME_HERE;I,M_HAMZAWY;Front_End_Developer;HTML+%26+CSS+%26+JS" alt="Typing Animation"/>
 </p>
 
 
