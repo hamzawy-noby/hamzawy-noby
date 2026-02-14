@@ -5,7 +5,7 @@
 
 
 ## 🌐 Socials:
-## 🌐 Socials
+
 <p align="center">
 
 <a href="https://www.linkedin.com/in/h%C3%A4mz%C3%A5-%C3%B8s%C3%A4m%C3%A3-018a212a7/" target="_blank">
