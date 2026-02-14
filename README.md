@@ -6,6 +6,8 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h%C3%A4mz%C3%A5-%C3%B8s%C3%A4m%C3%A3-018a212a7/) 
+https://www.instagram.com/eng_hamzawy_3_7?igsh=cnY5aDM2emF4aGI3
+https://www.facebook.com/share/1KSfwaV82X/
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
